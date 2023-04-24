@@ -60,7 +60,7 @@ Some types of these controllers are:
 
 {{< glossary_definition term_id="cloud-controller-manager" length="short" >}}
 
-The cloud-controller-manager only runs controllers that are specific to your cloud provider.
+The [cloud-controller-manager](/docs/concepts/architecture/cloud-controller/) only runs controllers that are specific to your cloud provider.
 If you are running Kubernetes on your own premises, or in a learning environment inside your
 own PC, the cluster does not have a cloud controller manager.
 
